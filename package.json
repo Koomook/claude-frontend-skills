@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bong/claude-frontend-skills.git"
+    "url": "https://github.com/Koomook/claude-frontend-skills.git"
   },
   "bugs": {
-    "url": "https://github.com/bong/claude-frontend-skills/issues"
+    "url": "https://github.com/Koomook/claude-frontend-skills/issues"
   },
-  "homepage": "https://github.com/bong/claude-frontend-skills#readme",
+  "homepage": "https://github.com/Koomook/claude-frontend-skills#readme",
   "engines": {
     "node": ">=14.0.0"
   }
