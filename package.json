@@ -1,0 +1,37 @@
+{
+  "name": "@bong/claude-frontend-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for creating distinctive, non-generic frontend designs with bold typography, cohesive themes, orchestrated motion, and atmospheric backgrounds",
+  "main": "index.js",
+  "skills": {
+    "distinctive-frontend": {
+      "description": "Create visually distinctive frontend interfaces using extreme typography, cohesive color themes, orchestrated animations, and layered backgrounds. Avoid generic AI aesthetics.",
+      "file": "skills/distinctive-frontend.md"
+    }
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "frontend",
+    "design",
+    "ui",
+    "typography",
+    "animation",
+    "css",
+    "web-design"
+  ],
+  "author": "bong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bong/claude-frontend-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bong/claude-frontend-skills/issues"
+  },
+  "homepage": "https://github.com/bong/claude-frontend-skills#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
